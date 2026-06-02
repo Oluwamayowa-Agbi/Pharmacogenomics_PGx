@@ -1,7 +1,7 @@
 # High-Accuracy Pharmacogenomic (PGx) Pipeline
 ## Facility: GeneLab Bioscience | Precision Medicine Core
 
-# [Paste the Repository Title Here]
+
 ![Pipeline Workflow Diagram](banner_pharmacogenomics.png)
 
 ### 💊 Overview
